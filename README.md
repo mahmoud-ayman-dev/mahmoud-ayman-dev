@@ -1,14 +1,15 @@
 # Hi, I'm Mahmoud Ayman
 
-FinTech student at the Faculty of Commerce, Tanta University, building my path toward software engineering. My goal is web development, and I'm starting with a solid base in C++, algorithms and problem solving.
+FinTech student at the Faculty of Commerce, Tanta University, building my path toward web development. I'm using C++, algorithms and problem solving as my foundation, and web development is where I'm headed.
 
-اسمي محمود أيمن، طالب FinTech في كلية التجارة جامعة طنطا. بتعلم البرمجة بـ C++ والخوارزميات وهدفي تطوير الويب.
+اسمي محمود أيمن، طالب FinTech في كلية التجارة جامعة طنطا. بتعلم C++ والخوارزميات كأساس، وهدفي تطوير الويب.
 
 ## What I'm learning now
-- C++ (arrays, functions, 2D arrays next, then vectors and pointers)
+- C++ as my foundation (arrays, functions, 2D arrays next, then vectors and pointers)
 - Algorithms and problem solving
 - Object-Oriented Programming
 - Git and GitHub
+- Web development (next stage)
 
 ## Projects
 - [Cpp-Array-Foundations](https://github.com/mahmoud-ayman-dev/Cpp-Array-Foundations): 22+ small programs on arrays and math functions
