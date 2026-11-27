@@ -17,5 +17,5 @@ FinTech student at the Faculty of Commerce, Tanta University, building my path t
 - [Day1_NumberPattern_CPP](https://github.com/mahmoud-ayman-dev/Day1_NumberPattern_CPP): number pyramid with nested loops
 
 ## Find me
-- LinkedIn: https://www.linkedin.com/in/mahmoud-ayman-047498389
+- LinkedIn: https://www.linkedin.com/in/mahmoudayman-dev
 - Open to internships and learning opportunities in software development and fintech.
